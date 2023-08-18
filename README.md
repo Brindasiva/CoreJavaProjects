@@ -1,2 +1,2 @@
 # CoreJavaProjects
-All core java projects are added here
+This is a first core java project to be added in GitHub
